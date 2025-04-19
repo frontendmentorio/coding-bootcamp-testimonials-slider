@@ -13,8 +13,8 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Dark Blue: hsl(240, 38%, 20%)
-- Grayish Blue: hsl(240, 18%, 77%)
+- Blue 950: hsl(240, 38%, 20%)
+- Gray 400: hsl(240, 18%, 77%)
 
 ## Typography
 
